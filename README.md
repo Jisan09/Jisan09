@@ -18,8 +18,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jisan09&theme=transparent" alt="GitHub streak stats" width="480" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jisan09&show_icons=true&theme=transparent&rank_icon=github&count_private=true" alt="GitHub Stats" width="450" /> 
+  <img src="https://streak-stats.demolab.com/?user=jisan09&theme=transparent" alt="GitHub streak stats" width="390" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jisan09&show_icons=true&theme=transparent&rank_icon=github&count_private=true" alt="GitHub Stats" width="370" /> 
 </p>
 
 ---
