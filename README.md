@@ -25,5 +25,15 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 1 hr 28 mins
+
+CSS        34 mins         >>>>>>>>>>---------------   38.45 %
+HTML       25 mins         >>>>>>>------------------   29.10 %
+Markdown   15 mins         >>>>---------------------   17.59 %
+Python     13 mins         >>>>---------------------   14.85 %
+```
+
 <!--END_SECTION:waka-->
  
