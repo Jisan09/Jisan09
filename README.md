@@ -4,7 +4,7 @@
 <p align="center">
   Portfolio •
   LinkedIn •
-  <a href="[Your Twitter Profile URL]">Telegram</a>
+  <a href="https://t.me/jisan09">Telegram</a>
 </p>
 
 <!-- Counts -->
