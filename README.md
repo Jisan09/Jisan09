@@ -27,17 +27,17 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2023 - To: 27 May 2023
+From: 18 May 2023 - To: 28 May 2023
 
-Total Time: 6 hrs 56 mins
+Total Time: 8 hrs 54 mins
 
-CSS          2 hrs 1 min     >>>>>>>------------------   29.04 %
-Python       1 hr 52 mins    >>>>>>>------------------   27.01 %
-Markdown     1 hr 21 mins    >>>>>--------------------   19.55 %
-HTML         58 mins         >>>----------------------   13.94 %
-YAML         17 mins         >------------------------   04.31 %
-JavaScript   10 mins         >------------------------   02.56 %
-Docker       8 mins          >------------------------   02.10 %
+Python       3 hrs 31 mins   >>>>>>>>>>---------------   39.67 %
+CSS          2 hrs 1 min     >>>>>>-------------------   22.66 %
+Markdown     1 hr 21 mins    >>>>---------------------   15.25 %
+HTML         58 mins         >>>----------------------   10.88 %
+YAML         22 mins         >------------------------   04.27 %
+Docker       21 mins         >------------------------   04.11 %
+JavaScript   10 mins         >------------------------   02.00 %
 ```
 
 <!--END_SECTION:waka-->
