@@ -3,7 +3,7 @@
 
 <p align="center">
   Portfolio •
-  LinkedIn •
+  <a href="https://www.linkedin.com/in/jisan09">LinkedIn</a> •
   <a href="https://t.me/jisan09">Telegram</a>
 </p>
 
@@ -26,9 +26,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
-From: 18 May 2023 - To: 30 May 2023
-
+```python
 Total Time: 10 hrs 7 mins
 
 Python       4 hrs 21 mins   >>>>>>>>>>>--------------   42.99 %
@@ -42,3 +40,23 @@ Docker       22 mins         >------------------------   03.68 %
 
 <!--END_SECTION:waka-->
  
+ <!-- Stats -->
+ 
+
+```json
+{
+  "skills": {
+    "cloudPlatforms": ["AWS", "Azure", "Digital Ocean", "Heroku"],
+    "databases": ["MongoDB", "SQL"],
+    "documentation": ["GitBook", "Markdown (MD)"],
+    "otherSkills": ["Docker", "Shell Script"],
+    "programmingLanguages": ["Bash", "C", "C++", "Python"],
+    "versionControl": ["Git", "GitHub"],
+    "webDevelopment": ["CSS", "HTML"]
+  },
+  "workingPlatform": {
+    "developmentEnvironments": ["Repl.it", "VS Code"],
+    "operatingSystems": ["Linux", "Windows"]
+  }
+}
+```
