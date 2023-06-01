@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```python
 Total Time: 10 hrs 21 mins
 
 Python       4 hrs 29 mins   >>>>>>>>>>>--------------   43.44 %
