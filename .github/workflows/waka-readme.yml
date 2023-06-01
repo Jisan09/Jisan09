@@ -17,3 +17,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 7
+          CODE_LANG: python
