@@ -27,17 +27,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 May 2023 - To: 19 June 2023
+From: 18 May 2023 - To: 20 June 2023
 
-Total Time: 71 hrs 8 mins
+Total Time: 76 hrs 15 mins
 
-Python       34 hrs 43 mins  >>>>>>>>>>>>-------------   48.80 %
-Other        25 hrs 53 mins  >>>>>>>>>----------------   36.40 %
-Markdown     2 hrs 31 mins   >------------------------   03.56 %
-HTML         2 hrs 16 mins   >------------------------   03.20 %
-CSS          2 hrs 3 mins    >------------------------   02.89 %
-Docker       1 hr 38 mins    >------------------------   02.31 %
-Text         1 hr 6 mins     -------------------------   01.57 %
+Python       38 hrs 49 mins  >>>>>>>>>>>>>------------   50.91 %
+Other        26 hrs 53 mins  >>>>>>>>>----------------   35.27 %
+Markdown     2 hrs 31 mins   >------------------------   03.32 %
+HTML         2 hrs 16 mins   >------------------------   02.98 %
+CSS          2 hrs 3 mins    >------------------------   02.70 %
+Docker       1 hr 38 mins    >------------------------   02.16 %
+Text         1 hr 6 mins     -------------------------   01.46 %
 ```
 
 <!--END_SECTION:waka-->
