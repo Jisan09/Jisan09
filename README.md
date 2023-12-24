@@ -27,16 +27,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 May 2023 - To: 22 December 2023
+From: 18 May 2023 - To: 23 December 2023
 
-Total Time: 557 hrs 19 mins
+Total Time: 559 hrs 5 mins
 
-Python                     384 hrs 45 mins >>>>>>>>>>>>>>>>>--------   69.04 %
-Other                      99 hrs 4 mins   >>>>---------------------   17.78 %
-Text                       16 hrs 26 mins  >------------------------   02.95 %
-JSON                       10 hrs 32 mins  -------------------------   01.89 %
-YAML                       8 hrs 40 mins   -------------------------   01.56 %
-Bash                       8 hrs           -------------------------   01.44 %
+Python                     386 hrs 10 mins >>>>>>>>>>>>>>>>>--------   69.07 %
+Other                      99 hrs 21 mins  >>>>---------------------   17.77 %
+Text                       16 hrs 26 mins  >------------------------   02.94 %
+JSON                       10 hrs 32 mins  -------------------------   01.88 %
+YAML                       8 hrs 40 mins   -------------------------   01.55 %
+Bash                       8 hrs 2 mins    -------------------------   01.44 %
 Markdown                   7 hrs 45 mins   -------------------------   01.39 %
 ```
 
