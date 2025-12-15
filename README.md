@@ -48,17 +48,22 @@ Markdown                   19 hrs 22 mins  -------------------------   00.98 %
 ```json
 {
   "skills": {
-    "cloudPlatforms": ["AWS", "Azure", "Digital Ocean", "Heroku"],
-    "databases": ["MongoDB", "SQL"],
-    "documentation": ["GitBook", "Markdown (MD)"],
-    "otherSkills": ["Docker", "Shell Script"],
-    "programmingLanguages": ["Bash", "C", "C++", "Python"],
+    "cloudPlatforms": ["AWS", "Azure", "DigitalOcean", "Heroku", "Scaleway", "OVHcloud", "Railway"],
+    "databases": ["PostgreSQL", "MongoDB", "SQL", "Solr"],
+    "documentation": ["Markdown (MD)", "GitBook"],
+    "devOpsAndInfra": ["Docker", "Kubernetes", "Nginx", "GitHub Actions", "Jenkins", "CI/CD", "ETL Pipelines"],
+    "programmingLanguages": ["Python", "Bash", "SQL", "YAML", "C", "C++"],
+    "frameworks": ["Django", "Flask", "FastAPI"],
+    "dataAndScraping": ["Web Crawling", "Scrapy", "Selenium", "BeautifulSoup", "Requests", "urllib", "Tesseract", "CAPTCHA Handling", "Proxy Rotation"],
+    "apisAndMessaging": ["REST APIs", "Telegram API", "MTProto", "OpenAI APIs"],
     "versionControl": ["Git", "GitHub"],
-    "webDevelopment": ["CSS", "HTML"]
+    "webDevelopment": ["HTML", "CSS"],
+    "otherSkills": ["Shell Scripting", "Backend Systems", "Data Engineering", "Infrastructure Migration", "Performance Optimization"]
   },
   "workingPlatform": {
-    "developmentEnvironments": ["Repl.it", "VS Code"],
-    "operatingSystems": ["Linux", "Windows"]
+    "developmentEnvironments": ["VS Code", "Replit"],
+    "operatingSystems": ["Linux", "Windows","MacOS"]
   }
 }
+
 ```
