@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FJisan09&label=Visitors&icon=github&color=%23495057&message=&style=social&tz=UTC">
   <a href="https://wakatime.com/@59020bc3-9b8e-41db-b0cc-57a751565bc6"><img src="https://wakatime.com/badge/user/59020bc3-9b8e-41db-b0cc-57a751565bc6.svg?style=flat" alt="Total time coded since May 19 2023" /></a>
-  <a href="https://github.com/jisan09?tab=followers"><img src="https://img.shields.io/github/followers/jisan09?logo=github" alt="GitHub Followers" /></a>
+  <a href="https://github.com/jisan09?tab=followers"><img src="https://img.shields.io/github/followers/jisan09?logo=github&style=social" alt="GitHub Followers" /></a>
 </p>
 
 ---
