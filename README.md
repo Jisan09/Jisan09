@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Jisan! 👋</h1>
 
 <p align="center">
-  Portfolio •
+  <a href="https://jisan09.github.io/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/jisan09">LinkedIn</a> •
   <a href="https://t.me/jisan09">Telegram</a>
 </p>
