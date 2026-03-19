@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Jisan's GitHub Stats, Rank: B+</title>
+        <title id="titleId">Jisan's GitHub Stats, Rank: A-</title>
         <desc id="descId">Total Stars Earned: 393, Total Commits  (last year) : 75, Total PRs: 114, Total Issues: 4, Contributed to (last year): 0</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 100.05699577379207;
+        stroke-dashoffset: 89.58502026182609;
       }
     }
   
